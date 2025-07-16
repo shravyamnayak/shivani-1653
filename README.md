@@ -1,13 +1,14 @@
+### 💫 About Me
 
+- 🔭 I’m currently working on **C++**
+- 👯 I’m looking to collaborate on **C**
+- 🤝 I’m looking for help with **Java**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Java**
 
-💫 About Me:
-🔭 I’m currently working on c++
-👯 I’m looking to collaborate on c
-🤝 I’m looking for help with java
-🌱 I’m currently learning python
-💬 Ask me about java
-⚡ Fun fact
+---
 
-💻 Tech Stack:
-C Java Python
+### 💻 Tech Stack
 
+- **Languages:** C, Java, Python
+- **Currently Exploring:** C++, backend concepts, and writing clean code
