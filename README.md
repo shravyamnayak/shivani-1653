@@ -11,12 +11,6 @@
 💻 Tech Stack:
 C Java Python
 
-📊 GitHub Stats:
 
 
-
-
-
-
-🏆 GitHub Trophies
 
